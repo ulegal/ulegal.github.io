@@ -64,7 +64,8 @@
     "gdpr": false,
     "uniqCompNum": 25,
     "versionPublish": "4.12.4",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-Z2648VSQV7\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-Z2648VSQV7');\n</script>"
   },
   "pages": {
     "index.html": {
